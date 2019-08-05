@@ -4,3 +4,7 @@
 .DS_Store
 .ipynb_checkpoints/
 .venv/
+
+# Github repos pulled in notebook
+notebooks/opendoc-supreme-court-judgments/
+notebooks/slw-judgments-crawler/
